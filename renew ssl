@@ -12,6 +12,6 @@ https://www.ssllabs.com/ssltest/analyze.html?d=zac3dex.tk
 above method not work
 
 
-1. now using ssl for wordpress.
+1. now using ssl for wordpress using letsencrypt.
 
 https://wordpress.org/plugins/ssl-zen/
